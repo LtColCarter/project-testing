@@ -1,0 +1,5 @@
+{
+  "jwtPrivateKey": "dream_jwtPrivateKey",
+  "dbPassword": "dream_dbPassword",
+  "dbLogin": "dream_dbLogin"
+}

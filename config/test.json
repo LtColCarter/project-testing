@@ -1,0 +1,6 @@
+{
+  "db": "mongodb://localhost/dream_tests",
+  "jwtPrivateKey": "insecureKey",
+  "port": 8000,
+  "frontEnd": "http://localhost:3000"
+}

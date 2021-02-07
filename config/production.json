@@ -1,0 +1,10 @@
+{
+    "db": "mongodb+srv://reMcQueen:wmCklX5tr6CjPHzm@blubird-mrj16.mongodb.net/test?retryWrites=true&w=majority",
+    "dbA": "mongodb+srv://",
+    "dbB": "@blubird-mrj16.mongodb.net/test?retryWrites=true&w=majority",
+    "dbPassword": "wmCklX5tr6CjPHzm",
+    "dbLogin": "reMcQueen",
+    "port": 8000,
+    "frontEnd": "https://dream-tour.now.sh/",
+    "cms": "https://dream-cms.now.sh/"
+}
